@@ -1,0 +1,32 @@
+html{
+    background-color: azure;
+    background: url('https://images.wallpaperscraft.ru/image/derevo_tekstura_doska_36573_1920x1080.jpg');
+    background-size: cover;
+    font-family: Comic Sans MS, sans-serif;
+}
+a.href{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.href:active{
+    color: blue;
+}
+.href:hover{ 
+    color: white;
+}
+h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+ul{
+    text-align: center;
+    font-size: 1.4em;
+    margin-top: 100px;
+}
+div {
+    text-align: center;
+}
+.list {
+    color: white
+}
